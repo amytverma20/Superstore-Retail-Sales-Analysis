@@ -25,7 +25,7 @@ The interactive analysis helps businesses understand **sales trends**, **profita
 ## 📂 Project Structure
 Retail-Sales-Analysis/
 │
-├── Superstore TRetail Sales Analysis Project.ipynb     # Main analysis notebook
+├── Superstore Retail Sales Analysis Project.ipynb     # Main analysis notebook
 ├── README.md      # Project documentation
 ├── data/     # Raw/cleaned data files
 └── images/    # Visualizations & charts
