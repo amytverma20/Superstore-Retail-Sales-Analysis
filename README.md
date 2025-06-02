@@ -25,10 +25,10 @@ The interactive analysis helps businesses understand **sales trends**, **profita
 ## 📂 Project Structure
 Retail-Sales-Analysis/
 │
-├── BIG DATA ANALYTICS(PROJECT).ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── data/ # Raw/cleaned data files
-└── images/ # Visualizations & charts
+├── Superstore TRetail Sales Analysis Project.ipynb     # Main analysis notebook
+├── README.md      # Project documentation
+├── data/     # Raw/cleaned data files
+└── images/    # Visualizations & charts
 
 
 ---
