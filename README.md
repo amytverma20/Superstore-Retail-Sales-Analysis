@@ -75,6 +75,12 @@ The dataset is derived from Superstore retail data and includes the following fi
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashboard.png)
+
+---
+
 ## 💡 Recommendations
 
 📌 Optimize discounts for high-loss categories  
